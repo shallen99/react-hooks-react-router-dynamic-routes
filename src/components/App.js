@@ -20,6 +20,7 @@ function App() {
         <Route exact path="/">
           <div>Home</div>
         </Route>
+        
       </Switch>
     </div>
   );
